@@ -63,7 +63,7 @@ DocPoint is a doctor appointment booking platform that enables patients to book 
 1.  Clone the repository:
     
     ```
-    git clone https://github.com/inosgungun/docpoint.git
+    git clone https://github.com/inosgungun/docPoint.git
     cd docpoint
     ```
     
