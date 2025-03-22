@@ -46,6 +46,8 @@ const DoctorProfile = () => {
     }
   }, [dToken])
 
+
+
   return profileData && (
     <div>
 
@@ -87,7 +89,7 @@ const DoctorProfile = () => {
           </div>
 
           <div className='flex gap-1 pt-2'>
-            <input onChange={()=> isEdit && setProfileData(prev => ({...prev, available: !prev.available}))} checked={profileData.available} type="checkbox" name="" id="" />
+            <input onChange={()=> isEdit && setProfileData(prev => ({...prev, available: !prev.available}))} checked={profileData.available} type="checkbox" name="available" id="available" />
             <label htmlFor="">Available</label>
           </div>
 
