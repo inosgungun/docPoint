@@ -1,6 +1,15 @@
 # DocPoint
 DocPoint is a doctor appointment booking platform that enables patients to book appointments seamlessly while allowing doctors and admins to manage their profiles, appointments, and earnings efficiently.
 
+## Project Link
+-   https://docpoint-frontend.onrender.com/
+
+## Admin/Doctor Panel
+-   https://docpoint-admin.onrender.com/
+-   Email:- admin@email.com
+-   Password:- qwerty123
+
+
 ## Features
 
 ### Frontend (Patient Portal)
