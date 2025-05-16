@@ -6,9 +6,6 @@ DocPoint is a doctor appointment booking platform that enables patients to book 
 
 ## Admin/Doctor Panel
 -   https://docpoint-admin.onrender.com/
--   Email:- admin@email.com
--   Password:- qwerty123
-
 
 ## Features
 
